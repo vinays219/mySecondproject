@@ -13,3 +13,8 @@ git config --list
 git config --global core.editor notepad
 
 git status
+
+git add <filename>
+
+git commit -m "message to be displayed to everyone else"
+
