@@ -20,3 +20,9 @@ git commit -m "message to be displayed to everyone else"
 
 git commit -am "add and commit ina single step"
 
+git log
+
+git log --until="2/22/2019" --oneline
+
+git log --author="vinay" --oneline -3
+
