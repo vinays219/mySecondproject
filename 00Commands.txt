@@ -1,0 +1,15 @@
+git config --global user.name "vinay kumar"
+
+git config --global user.email "vinay_kumar1@persistent.com"
+
+git config  user.name
+
+git config  user.email
+
+git init
+
+git config --list
+
+git config --global core.editor notepad
+
+git status
