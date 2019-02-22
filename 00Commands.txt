@@ -18,3 +18,5 @@ git add <filename>
 
 git commit -m "message to be displayed to everyone else"
 
+git commit -am "add and commit ina single step"
+
