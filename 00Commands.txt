@@ -53,3 +53,26 @@ tag
 stash
 
 -------------------------------------------
+
+
+-------------------------------------------
+
+Remote
+
+push
+pull
+clone fetch
+
+-------------------------------------------
+
+
+git clone <url>
+
+
+git remote
+
+git remote add origin https://github.com/vinays219/mySecondproject.git
+
+git remote -v
+
+git push -u origin master
