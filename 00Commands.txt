@@ -30,8 +30,26 @@ git checkout <sha of comit>
 
 git checkouut master
 
+-------------------------------------------
+
+checkout 
+revert
+reset
+
+-------------------------------------------
+
+
 git branch bug123
 
 git branch
 
 git checkout bug123
+
+
+-------------------------------------------
+
+Rebase 
+tag 
+stash
+
+-------------------------------------------
